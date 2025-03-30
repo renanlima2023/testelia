@@ -1,4 +1,4 @@
-# Teste para Vaga de Analista de Dados Júnior
+#  Analista de Dados
 
 Este repositório foi criado como parte do processo seletivo para a vaga de **Analista de Dados Júnior**. Ele contém soluções para duas questões de SQL desenvolvidas em PostgreSQL, demonstrando habilidades em:
 
